@@ -6,7 +6,7 @@ function cabeceraPagina()
 
 function cuerpoPagina($contenido)
 {
-  return '<body>$contenido</body>';
+  return "<body>$contenido</body>";
 }
 
 function piePagina()
